@@ -1,0 +1,18 @@
+.yoshi {
+    text-align: right;
+}
+.diveS {
+    display: flex;
+    justify-content:space-between;
+}
+.diveDPS {
+    display: flex;
+    justify-content:space-between;
+}
+.diveTank {
+    display: flex;
+    justify-content:space-between;
+}
+.buttonconfirm {
+    font-size:20px;
+}
